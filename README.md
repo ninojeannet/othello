@@ -1,1 +1,1 @@
-# othello
+# othello, Logique
