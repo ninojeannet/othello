@@ -1,0 +1,18 @@
+L'application Othello réalisée en XAML/C# est à rendre pour la 2ème semaine de janvier (17 janvier)
+
+Livrables:
+- petite présentation de 5 à 10' par le groupe 
+- Fiche de présentation succincte (1 Page A4)
+- Solution zippée ou lien sur le dépôt
+
+
+Intégrez à votre solution l'interface Iplayable.DLL   (ne pas la recompiler!)
+
+
+
+Pour que l'appli de tournoi trouve votre assemblage avec l'IA, il faut respecter la convention de nommage suivante:
+
+- votre classe IA doit référencer et implémenter IPlayable
+- votre classe doit avoir "Board" dans son nom  (p.ex. "OthelloBoard", "TheBoard", "MyBoard", ...)
+- votre classe doit avoir un constructeur par défaut implémenté
+- votre assemblage doit commencer par "Othello" (p.ex. "Othello.dll", "OthelloGroupe2.dll", ...)
