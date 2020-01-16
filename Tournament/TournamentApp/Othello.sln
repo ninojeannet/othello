@@ -12,7 +12,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerOthello", "Contro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OthelloAI_OHU", "OthelloAI_OHU\OthelloAI_OHU.csproj", "{3D5FA94C-C1F0-4564-B077-7EE25F12C9CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OthelloAIstub", "ArcOthelloAIstub\OthelloIA2\OthelloAIstub.csproj", "{896F0087-5B5C-4D5D-AD07-055A914925CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OthelloAIJeannetAlfred", "ArcOthelloAIstub\OthelloIA2\OthelloAIJeannetAlfred.csproj", "{896F0087-5B5C-4D5D-AD07-055A914925CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

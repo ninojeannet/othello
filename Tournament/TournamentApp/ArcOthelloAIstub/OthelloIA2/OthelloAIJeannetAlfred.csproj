@@ -7,8 +7,8 @@
     <ProjectGuid>{896F0087-5B5C-4D5D-AD07-055A914925CA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OthelloAIstub</RootNamespace>
-    <AssemblyName>OthelloAIstub</AssemblyName>
+    <RootNamespace>OthelloAIJeannetAlfred</RootNamespace>
+    <AssemblyName>OthelloAIJeannetAlfred</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
